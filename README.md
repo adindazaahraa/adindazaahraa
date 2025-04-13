@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">I am a passionate Informatics Engineering student with a keen interest in web development, machine learning, etc. I love exploring new technologies and applying them to solve real-world problems.</p>
+<p align="center">I am a passionate Informatics Engineering student with a strong interest in web development and a creative flair for design. I enjoy exploring new technologies and turning ideas into real-world solutions.</p>
 
 ###
 
